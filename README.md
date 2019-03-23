@@ -24,9 +24,10 @@ This is a collection of helper functions used in **kmeans.py**
 
 * [Samantha Han][SH](samantha.han@wustl.edu)
 * [Hakkyung Lee][HL] (hakkyung@wustl.edu)
-* Skylar Nam (nam@wustl.edu)
+* [Skylar Nam][SK] (nam@wustl.edu)
 * Zefang Tang (zefang@wustl.edu)
 
 
 [SH]: <https://github.com/SamanthaSHan>
 [HL]: <https://github.com/hklee93>
+[SK]: <https://github.com/skylarnam>
